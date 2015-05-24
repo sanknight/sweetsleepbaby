@@ -1,0 +1,454 @@
+{
+  "terms": [
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 1,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 5,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 9,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 13,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 17,
+      "numeric": 1
+    },
+    {
+      "term": "390",
+      "weight": 12,
+      "documents": 7880,
+      "occurrences": 9901,
+      "length": 3,
+      "start_pos": 21,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 25,
+      "numeric": 1
+    },
+    {
+      "term": "387",
+      "weight": 13,
+      "documents": 7013,
+      "occurrences": 8494,
+      "length": 3,
+      "start_pos": 29,
+      "numeric": 1
+    },
+    {
+      "term": "387",
+      "weight": 13,
+      "documents": 7013,
+      "occurrences": 8494,
+      "length": 3,
+      "start_pos": 33,
+      "numeric": 1
+    },
+    {
+      "term": "391",
+      "weight": 13,
+      "documents": 5867,
+      "occurrences": 7159,
+      "length": 3,
+      "start_pos": 37,
+      "numeric": 1
+    },
+    {
+      "term": "387",
+      "weight": 13,
+      "documents": 7013,
+      "occurrences": 8494,
+      "length": 3,
+      "start_pos": 41,
+      "numeric": 1
+    },
+    {
+      "term": "388",
+      "weight": 13,
+      "documents": 5643,
+      "occurrences": 6769,
+      "length": 3,
+      "start_pos": 45,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 49,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 53,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 57,
+      "numeric": 1
+    },
+    {
+      "term": "384",
+      "weight": 13,
+      "documents": 6515,
+      "occurrences": 7929,
+      "length": 3,
+      "start_pos": 61,
+      "numeric": 1
+    },
+    {
+      "term": "388",
+      "weight": 13,
+      "documents": 5643,
+      "occurrences": 6769,
+      "length": 3,
+      "start_pos": 65,
+      "numeric": 1
+    },
+    {
+      "term": "390",
+      "weight": 12,
+      "documents": 7880,
+      "occurrences": 9901,
+      "length": 3,
+      "start_pos": 69,
+      "numeric": 1
+    },
+    {
+      "term": "391",
+      "weight": 13,
+      "documents": 5867,
+      "occurrences": 7159,
+      "length": 3,
+      "start_pos": 73,
+      "numeric": 1
+    },
+    {
+      "term": "389",
+      "weight": 13,
+      "documents": 5986,
+      "occurrences": 7162,
+      "length": 3,
+      "start_pos": 77,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 81,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 85,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 89,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 93,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 97,
+      "numeric": 1
+    },
+    {
+      "term": "389",
+      "weight": 13,
+      "documents": 5986,
+      "occurrences": 7162,
+      "length": 3,
+      "start_pos": 101,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 105,
+      "numeric": 1
+    },
+    {
+      "term": "387",
+      "weight": 13,
+      "documents": 7013,
+      "occurrences": 8494,
+      "length": 3,
+      "start_pos": 109,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 113,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 117,
+      "numeric": 1
+    },
+    {
+      "term": "387",
+      "weight": 13,
+      "documents": 7013,
+      "occurrences": 8494,
+      "length": 3,
+      "start_pos": 121,
+      "numeric": 1
+    },
+    {
+      "term": "388",
+      "weight": 13,
+      "documents": 5643,
+      "occurrences": 6769,
+      "length": 3,
+      "start_pos": 125,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 129,
+      "numeric": 1
+    },
+    {
+      "term": "387",
+      "weight": 13,
+      "documents": 7013,
+      "occurrences": 8494,
+      "length": 3,
+      "start_pos": 133,
+      "numeric": 1
+    },
+    {
+      "term": "384",
+      "weight": 13,
+      "documents": 6515,
+      "occurrences": 7929,
+      "length": 3,
+      "start_pos": 137,
+      "numeric": 1
+    },
+    {
+      "term": "385",
+      "weight": 12,
+      "documents": 8981,
+      "occurrences": 11358,
+      "length": 3,
+      "start_pos": 141,
+      "numeric": 1
+    },
+    {
+      "term": "387",
+      "weight": 13,
+      "documents": 7013,
+      "occurrences": 8494,
+      "length": 3,
+      "start_pos": 145,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 149,
+      "numeric": 1
+    },
+    {
+      "term": "386",
+      "weight": 13,
+      "documents": 5852,
+      "occurrences": 7278,
+      "length": 3,
+      "start_pos": 153,
+      "numeric": 1
+    },
+    {
+      "term": "389",
+      "weight": 13,
+      "documents": 5986,
+      "occurrences": 7162,
+      "length": 3,
+      "start_pos": 157,
+      "numeric": 1
+    },
+    {
+      "term": "395",
+      "weight": 12,
+      "documents": 8081,
+      "occurrences": 10854,
+      "length": 3,
+      "start_pos": 161,
+      "numeric": 1
+    },
+    {
+      "term": "394",
+      "weight": 13,
+      "documents": 7182,
+      "occurrences": 8942,
+      "length": 3,
+      "start_pos": 165,
+      "numeric": 1
+    },
+    {
+      "term": "392",
+      "weight": 13,
+      "documents": 5535,
+      "occurrences": 6689,
+      "length": 3,
+      "start_pos": 169,
+      "numeric": 1
+    },
+    {
+      "term": "392",
+      "weight": 13,
+      "documents": 5535,
+      "occurrences": 6689,
+      "length": 3,
+      "start_pos": 173,
+      "numeric": 1
+    },
+    {
+      "term": "392",
+      "weight": 13,
+      "documents": 5535,
+      "occurrences": 6689,
+      "length": 3,
+      "start_pos": 177,
+      "numeric": 1
+    },
+    {
+      "term": "394",
+      "weight": 13,
+      "documents": 7182,
+      "occurrences": 8942,
+      "length": 3,
+      "start_pos": 181,
+      "numeric": 1
+    },
+    {
+      "term": "394",
+      "weight": 13,
+      "documents": 7182,
+      "occurrences": 8942,
+      "length": 3,
+      "start_pos": 185,
+      "numeric": 1
+    },
+    {
+      "term": "393",
+      "weight": 12,
+      "documents": 8718,
+      "occurrences": 10759,
+      "length": 3,
+      "start_pos": 189,
+      "numeric": 1
+    },
+    {
+      "term": "391",
+      "weight": 13,
+      "documents": 5867,
+      "occurrences": 7159,
+      "length": 3,
+      "start_pos": 193,
+      "numeric": 1
+    },
+    {
+      "term": "394",
+      "weight": 13,
+      "documents": 7182,
+      "occurrences": 8942,
+      "length": 3,
+      "start_pos": 197,
+      "numeric": 1
+    }
+  ]
+}

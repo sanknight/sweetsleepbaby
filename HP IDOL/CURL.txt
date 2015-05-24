@@ -1,0 +1,3 @@
+CURL
+
+curl -X POST --form "file=@data.txt" https://api.idolondemand.com/1/api/sync/tokenizetext/v1
